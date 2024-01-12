@@ -1,0 +1,8 @@
+@article{REPO056,
+    author = "Chen, Zhiqin and Tagliasacchi, Andrea and Funkhouser, Thomas and Zhang, Hao",
+    journal = "ACM Transactions on Graphics",
+    number = "4",
+    title = "{Neural Dual Contouring}",
+    volume = "41",
+    year = "2022"
+}
