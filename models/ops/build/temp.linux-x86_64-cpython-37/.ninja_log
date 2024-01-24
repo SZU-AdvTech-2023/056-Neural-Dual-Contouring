@@ -1,0 +1,7 @@
+# ninja log v5
+0	5900	1666229472764063659	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/cpu/ms_deform_attn_cpu.o	1ab37eefecc596b3
+0	17376	1666229484227991415	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/cuda/ms_deform_attn_cuda.o	e58da2f167740565
+1	19682	1666229486535976981	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/vision.o	5e7a2a7ef76749d5
+0	4732	1688802722882446117	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/cpu/ms_deform_attn_cpu.o	568409bdb91546d6
+1	17546	1688802735690356691	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/cuda/ms_deform_attn_cuda.o	7f4976d7df923355
+1	24294	1688802742430310223	/home/honghao/heat/models/ops/build/temp.linux-x86_64-cpython-37/home/honghao/heat/models/ops/src/vision.o	a826b06245576c9d
